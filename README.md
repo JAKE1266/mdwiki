@@ -1,5 +1,9 @@
 # mdwiki
 
+[![CI](https://github.com/JAKE1266/mdwiki/actions/workflows/ci.yml/badge.svg)](https://github.com/JAKE1266/mdwiki/actions/workflows/ci.yml)
+
+> 源码：<https://github.com/JAKE1266/mdwiki> · 安装：`npm i github:JAKE1266/mdwiki`（或直接克隆运行）
+
 零依赖**本地 Markdown Wiki**:把一个装满 `.md` 文件的目录变成带 `[[wikilink]]` 双链、反向链接与全文搜索的个人知识库。纯 Node.js(≥18),无任何第三方依赖,渲染器自带 XSS 防护。
 
 ## 快速开始
