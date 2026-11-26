@@ -1,0 +1,9 @@
+{
+  "name": "mdwiki",
+  "version": "0.1.0",
+  "description": "零依赖 Markdown 本地 Wiki:目录浏览、最小渲染器、[[wikilink]] 反链、全文搜索",
+  "type": "module",
+  "scripts": { "test": "node test/md.test.mjs && node test/wiki.test.mjs && node test/server.test.mjs && node test/syntax.test.mjs" },
+  "engines": { "node": ">=18" },
+  "license": "MIT"
+}
